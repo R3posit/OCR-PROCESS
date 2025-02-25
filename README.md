@@ -30,7 +30,7 @@ Additionally, you must have Tesseract OCR installed on your system. Download it 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/OCR-PROCESS.git
+   git clone https://github.com/R3posit/OCR-PROCESS.git
    cd OCR-PROCESS
    ```
 
